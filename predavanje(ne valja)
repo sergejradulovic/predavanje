@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Predavanje 1</title>
+        <body>
+            <p title="Ja sam tooltip">
+
+            Paragraf</p>    
+            <h1>Naslov</h1>
+            <h2>Naslov</h2>
+            <h3>Naslov</h3>
+            <h4>Naslov</h4>
+            <h5>Naslov</h5>
+            <h6>Naslov</h6>
+
+            <p>
+                <i>Neki tekst</i><strong></strong>
+                <pre>
+                    tekstt br
+                    novi red
+                    novi reed
+                    teaseada &euro;
+                </pre>
+
+                
+            <img  src="/images/giphy.wepb"
+            style="width: 100px;height: 100px;"
+
+            <a href="./images/giphy.wepb" target="blank"> link na slici</a> <br>
+                  <a href+"https://www.lipsum.com/">Lorem ipsum</a>
+                <div>
+data:image/jpeg;base64,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
+                </div>
+                  <a href =
+
+
+            </p>
+
+
+        <ul type="square">
+            <li>Marko</li>
+            <li>Jovan</li>
+            <li>Nikola</li>
+        </ul>
+        <ol>
+            <ol type="i">
+                
+            </ol>
+            <li>Prvi</li>
+            <li>Drugi</li>
+            <li>Treci</li>
+        </ol>
+        <table>
+
+            <caption>Tabela 1</caption>
+            <th>Name</th>
+            <th>Telephone</th>
+            <tr>
+
+
+                <td>John</td>
+                <td>066</td>
+                <td>066</td>
+
+            </tr>
+            <tr rowspan="2"
+        <table>
+
+        </tr>
+        <td>054</td>
+    </body>
+</head>
+</html>
